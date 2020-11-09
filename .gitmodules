@@ -1,3 +1,9 @@
 [submodule "plugins/start/vim-sensible"]
 	path = plugins/start/vim-sensible
 	url = git@github.com:tpope/vim-sensible.git
+[submodule "plugins/start/vim-polyglot"]
+	path = plugins/start/vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot.git
+[submodule "plugins/start/rust.vim"]
+	path = plugins/start/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
