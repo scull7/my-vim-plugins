@@ -1,9 +1,12 @@
+## Install the `.vimrc` configuration file
+```sh
+ls -l .vimrc ~/.vimrc
+```
+
 ## Vim Pack Articles
 
 ### Installing Vim(8( plugins with the native pack system.
 https://medium.com/@paulodiovani/installing-vim-8-plugins-with-the-native-pack-system-39b71c351fea
-
-This 
 
 ```sh
 # make the pack folder a git repository
