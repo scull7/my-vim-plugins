@@ -7,3 +7,9 @@
 [submodule "plugins/start/rust.vim"]
 	path = plugins/start/rust.vim
 	url = git@github.com:rust-lang/rust.vim.git
+[submodule "plugins/start/vim-airline"]
+	path = plugins/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "plugins/start/ale"]
+	path = plugins/start/ale
+	url = git@github.com:dense-analysis/ale.git
