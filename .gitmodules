@@ -13,3 +13,15 @@
 [submodule "plugins/start/ale"]
 	path = plugins/start/ale
 	url = git@github.com:dense-analysis/ale.git
+[submodule "plugins/start/vim-vinegar"]
+	path = plugins/start/vim-vinegar
+	url = git@github.com:tpope/vim-vinegar.git
+[submodule "plugins/start/vim-signify"]
+	path = plugins/start/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
+[submodule "plugins/start/fzf.vim"]
+	path = plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "plugins/start/fzf"]
+	path = plugins/start/fzf
+	url = https://github.com/junegunn/fzf.git
